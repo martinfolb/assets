@@ -1,20 +1,16 @@
 {
   "id": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167",
-  "name": "FEG Token",
-  "symbol": "FEGbsc",
+  "name": "SOROS",
+  "symbol": "SOROSbsc",
   "type": "BEP20",
   "decimals": 9,
-  "description": "FEG is at the center of the FEG ecosystem and is revolutionizing the DeFi space.",
-  "website": "https://fegtoken.com",
+  "description": "SOROS universal SmartDeFi access token",
+  "website": "https://soros.io",
   "explorer": "https://bscscan.com/token/0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
   "reflections": true,
   "social": {
-    "twitter": "https://twitter.com/fegtoken",
-    "telegram": "https://t.me/fegchat",
-    "discord": "https://discord.com/invite/K372n4NkbJ",
-    "reddit": "https://reddit.com/r/FegToken_Official/"
-  },
-  "stake": {
-    "address": "0xF8303c3ac316b82bCbB34649e24616AA9ED9E5F4"
+    "twitter": "https://twitter.com/soroscrypto",
+    "telegram": "https://t.me/https://t.me/futuremillionairesdeco",
+    "discord": "https://discord.gg/dxSZAeApv9"
   }
 }
